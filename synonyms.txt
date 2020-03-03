@@ -1,0 +1,37 @@
+house,mansion
+eat,consume
+family,house
+family,class
+family,category
+family,family line
+family,folk
+family,kinfolk
+family,kinsfolk
+family,fellowship
+family,household
+family,house
+family,home
+fmaily,menag
+family,kin
+family,kinsperson
+family,syndicate
+family,crime syndicate
+family,mob
+mob,gang
+mob,pack
+mog,ring
+mob,rabblemob,rout
+mob,syndicate
+mob,crime syndicate
+mob,family
+mob,throng
+mob,pile
+mob,jam
+house
+,home
+   ,home
+house,     
+a bit,a little
+a bit,a trifle
+a little,a bit
+a little,a trifle
