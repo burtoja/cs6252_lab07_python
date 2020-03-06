@@ -13,6 +13,7 @@ def updateDictionary(thesaurus, key, word):
     else:
         return False
 
+
 def get_synonyms_from_file():
     thesaurus = {}  
     try:

@@ -8,7 +8,6 @@ from flask import Flask
 from synonyms import get_synonyms_from_file
 app = Flask(__name__)
 
-
 @app.route('/synonyms')
 def get_all_synonyms():
     all_synonyms = get_synonyms_from_file()
